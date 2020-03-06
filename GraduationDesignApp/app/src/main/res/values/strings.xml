@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">基于WiFi的语音控制系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mp3">MP3</string>
+    <string name="title_activity_rgb">RGB灯光</string>
+    <string name="title_activity_fan">风扇</string>
+
+</resources>
